@@ -3,4 +3,8 @@ Hello World
 Are you out there 
 
 
+<<<<<<< HEAD
 So am gonna add some cool feautures here 
+=======
+Okay here am just experimenting stuff 
+>>>>>>> text-1-experiment
